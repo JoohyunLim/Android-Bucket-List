@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_bucketlist">
+
+    <fragment
+        android:id="@+id/navigation_bucketlist"
+        android:name="com.example.bucketlist.BucketList.BucketListFragment"
+        android:label= "버킷리스트"
+        tools:layout="@layout/fragment_bucketlist" />
+
+    <fragment
+        android:id="@+id/navigation_rec"
+        android:name="com.example.bucketlist.Recommendation.RecFragment"
+        android:label="둘러보기"
+        tools:layout="@layout/fragment_rec" />
+
+    <fragment
+        android:id="@+id/navigation_mypage"
+        android:name="com.example.bucketlist.MyPage.MyPageFragment"
+        android:label="마이페이지"
+        tools:layout="@layout/fragment_mypage" />
+</navigation>

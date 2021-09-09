@@ -3,15 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/drawable/green_stroke.xml" value="0.1" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/drawable/roundField_green.xml" value="0.1" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/drawable/roundbar_green.xml" value="0.1" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/drawable/roundbar_green_stroke.xml" value="0.1" />
-        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/activity_main.xml" value="0.12" />
-        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/fragment_bucketlist.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/drawable/spinner_item.xml" value="0.1" />
+        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/fragment_bucketlist.xml" value="0.22" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/fragment_mypage.xml" value="0.1" />
-        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/fragment_rec.xml" value="0.1" />
+        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/fragment_rec.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/layout/simple_spinner_item.xml" value="0.11911231884057971" />
         <entry key="..\:/Users/14Z980-GA50K/AndroidStudioProjects/BucketList/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16944444444444445" />
       </map>
     </option>

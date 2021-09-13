@@ -2,7 +2,8 @@
 <resources>
     <string-array name="spinner_array">
         <item>버킷리스트</item>
-        <item>커스텀1</item>
-        <item>커스텀2</item>
+        <item>먹킷리스트</item>
+        <item>위시리스트</item>
+        <item></item>
     </string-array>
 </resources>
